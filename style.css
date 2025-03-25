@@ -83,3 +83,12 @@ footer {
     padding-left: 1.2rem;
     text-align: left;
 }
+#verification li {
+    word-break: break-all;
+    overflow-wrap: break-word;
+    background: rgba(255,255,255,0.05);
+    padding: 0.5rem;
+    border-radius: 0.4rem;
+    font-family: monospace;
+    font-size: 0.95rem;
+}
